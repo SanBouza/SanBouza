@@ -1,7 +1,12 @@
 # 💫 About Me:
-👋 Hola, soy @SanBouza !<br>👀 Estoy interesado en Dev y bases de datos<br>🌱 Estoy cursando la Tecnicatura en Programación en UNSAM.   
-👋 Hi! I'm @SanBouza!<br>👀 I'm interested in Dev and databases.<br>🌱 I'm studying Programming at UNSAM.
-
+🇪🇸👋 Hola, soy @SanBouza !
+<br>✨️ Estoy cursando el último año de Desarrollo de Software en la UNSAM! <br> 
+🇬🇧👋 Hi! I'm @SanBouza!<br>
+✨️ I'm in my final year of Software Development at Uni!
+<br>
+🇩🇪👋 Hallo! Ich bin @SanBouza!<br>
+✨️ Ich bin in meinem letzten Jahr des Softwareentwicklungsstudiums an der Uni!
+<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sbouza/) 
