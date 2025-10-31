@@ -1,11 +1,11 @@
 # 💫 About Me:
 🇪🇸👋 Hola, soy @SanBouza !
-<br>✨️ Estoy cursando el último año de Desarrollo de Software en la UNSAM! <br> 
+<br>✨️ Soy un Full-stack developer Junior! <br> 
 🇬🇧👋 Hi! I'm @SanBouza!<br>
-✨️ I'm in my final year of Software Development at Uni!
+✨️ I'm a Junior Full-stack developer!
 <br>
 🇩🇪👋 Hallo! Ich bin @SanBouza!<br>
-✨️ Ich bin in meinem letzten Jahr des Softwareentwicklungsstudiums an der Uni!
+✨️ Ich bin eine Junior Full-stack developer!
 <br>
 
 ## 🌐 Socials:
